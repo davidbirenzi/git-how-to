@@ -1,0 +1,4 @@
+ls --list
+cd --change directory
+pwd --print working directory
+touch --creating a file
